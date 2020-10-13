@@ -1,0 +1,14 @@
+{
+  "name":"@brunozhon/npm-packs",
+  "version":"1.0.0",
+  "author": {
+    "name":"Bruno Zhong",
+    "url":"https://brunozhon.github.io"
+  },
+  "license":"MIT",
+  "repostory":{
+    "type":"git",
+    "url":"https://github.com/Brunozhon/npm-packs"
+  },
+  "homepage":"https://brunozhon.github.io"
+}

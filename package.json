@@ -7,10 +7,6 @@
     "url":"https://brunozhon.github.io"
   },
   "license":"MIT",
-  "repostory":{
-    "type":"git",
-    "url":"https://github.com/Brunozhon/npm-packs.git"
-  },
   "homepage":"https://brunozhon.github.io",
   "publishConfig":{
     "registry":"https://npm.pkg.github.com"

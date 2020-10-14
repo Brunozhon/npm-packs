@@ -1,5 +1,6 @@
 {
   "name":"@brunozhon/npm-packs",
+  "description":"# npm-packs \n\n NPM packages for [@Brunozhon](https://github.com/Brunozhon) \n",
   "version":"1.0.0",
   "author": {
     "name":"Bruno Zhong",
@@ -8,7 +9,10 @@
   "license":"MIT",
   "repostory":{
     "type":"git",
-    "url":"https://github.com/Brunozhon/npm-packs"
+    "url":"https://github.com/Brunozhon/npm-packs.git"
   },
-  "homepage":"https://brunozhon.github.io"
+  "homepage":"https://brunozhon.github.io",
+  "publishConfig":{
+    "registry":"https://npm.pkg.github.com"
+  }
 }

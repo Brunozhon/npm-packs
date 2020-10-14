@@ -2,6 +2,7 @@
   "name":"@brunozhon/npm-packs",
   "description":"# npm-packs \n\n NPM packages for [@Brunozhon](https://github.com/Brunozhon) \n",
   "version":"1.0.0",
+  "main":"test.js",
   "author": {
     "name":"Bruno Zhong",
     "url":"https://brunozhon.github.io"

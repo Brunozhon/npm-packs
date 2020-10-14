@@ -7,8 +7,5 @@
     "url":"https://brunozhon.github.io"
   },
   "license":"MIT",
-  "homepage":"https://brunozhon.github.io",
-  "publishConfig":{
-    "registry":"https://npm.pkg.github.com"
-  }
+  "homepage":"https://brunozhon.github.io"
 }
